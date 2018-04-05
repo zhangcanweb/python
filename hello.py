@@ -2,7 +2,7 @@ a=100
 if a<100:
 	print('good')
 else:
-    print('bad');
+    print('bad')
 a=2
 b=3
 print(a)
@@ -10,7 +10,7 @@ print(b)
 print(10//3)
 print(10/3)
 if 1==2:print('one equals two')
-if 1==1:print('one equale one')
+if 1==1:print('one equals one')
 # 乘方运算函数pow()
 print(pow(2,3))
 #int()函数将字符串转化成数字  input()函数运行时还要手动赋值一次
@@ -35,9 +35,9 @@ print(math.ceil(32.6))
 from math import sqrt
 print(sqrt(3))
 #海龟绘图
-from turtle import *
-forward(100)
-left(120)
-forward(100)
-left(120)
-forward(100)
+# from turtle import *
+# forward(100)
+# left(120)
+# forward(100)
+# left(120)
+# forward(100)
