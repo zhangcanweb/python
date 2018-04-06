@@ -15,5 +15,5 @@ print(type(1/1.1))#<class 'float'>
 
 #特殊
 print(type(1//1))#<class 'int'>  结果是1
-print(1/2)#除法
-print(1//2)#整除保留整数部分所以（//）类型是int
+print(1/2)#0.5 除法
+print(1//2)#0 整除保留整数部分所以（//）类型是int
