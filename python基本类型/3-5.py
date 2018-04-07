@@ -13,4 +13,6 @@ print(bool([1,2]))#True
 print(bool([]))#False
 print(bool({1,2}))#True
 print(bool({}))#False
+
+
 #! bool(None)为False
